@@ -45,3 +45,16 @@ p
     font-family: 'Franklin Gothic Medium';
     display: contents;
 }
+.esm
+{
+    color: #666666;
+    font-family: 'Franklin Gothic Medium';
+    font-size: smaller;
+    display: contents;
+}
+.esm:hover
+{
+    color: #2e2e2e;
+    cursor: pointer;
+    transition: 0.2s;
+}
