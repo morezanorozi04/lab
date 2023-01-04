@@ -58,3 +58,38 @@ p
     cursor: pointer;
     transition: 0.2s;
 }
+input
+{
+    width: 250px;
+}
+
+.Timepart
+{
+    text-align: left;
+    text-shadow: none;
+}
+
+
+ul
+{
+    padding-right: 40px;
+
+}
+li
+{
+    display: inline-block;
+    /*margin : 0px auto;*/
+    margin-top: 15px;
+    margin-left: 10px;
+}
+button
+{
+    border-color: #ffffff;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+button:hover
+{
+    border-color: #bebebe;
+}
